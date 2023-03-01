@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaugatGhimire07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development and UI/UX Design
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on anything interesting
 - 📫 Reach me at ghimiresaugat987@gmail.com
 
 <!---
